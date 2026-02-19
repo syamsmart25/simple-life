@@ -65,7 +65,6 @@
 }
 .common-btn{
     text-align: center;
-    margin: 0 30px;
 }
 .common-btn a:hover{
     color: #000;
@@ -177,7 +176,7 @@
     text-transform:capitalize;
 }
 .sec-3{
-   padding: 60px;
+   padding: 60px 0;
    background-color: #616c76;
 
 }
@@ -210,11 +209,12 @@
 .sec3-content p{
     font-size: 15px;
     font-family:"Funnel Sans", sans-serif ;
-    font-weight: 100px;
+    font-weight: 400;
     color: #010f1c;
     text-align: center;
     line-height: 1;
     text-transform:capitalize;
+    margin:20px;
 }
 
 .sec-3-img{
@@ -781,4 +781,5 @@
     font-weight: 100;
     text-transform: capitalize;
 }
+
 
