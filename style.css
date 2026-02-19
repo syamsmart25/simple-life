@@ -737,6 +737,7 @@
 .ftr-1-line ul{
     display: flex;
     align-items:center ;
+    justify-content: space-between;
 }
 .ftr-1-line li{
     list-style: none;
@@ -789,6 +790,7 @@
 .ftr-1-line a:hover{
     color: #3498eb;
 }
+
 
 
 
