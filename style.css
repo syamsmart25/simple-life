@@ -783,7 +783,12 @@
     font-weight: 100;
     text-transform: capitalize;
 }
-
+.ftr-1-line {
+    margin-bottom: 20px;
+}
+.ftr-1-line a:hover{
+    color: #3498eb;
+}
 
 
 
