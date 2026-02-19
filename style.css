@@ -24,7 +24,9 @@
 }
 .logo{
     max-width: 9%;
-    
+}
+.header-btn {
+    margin-right: 20px;
 }
 .nav-sec{
     display: flex;
@@ -61,7 +63,6 @@
     line-height: 1;
     text-transform:capitalize;
     display: inline-block;
-
 }
 .common-btn{
     text-align: center;
@@ -790,6 +791,7 @@
 .ftr-1-line a:hover{
     color: #3498eb;
 }
+
 
 
 
