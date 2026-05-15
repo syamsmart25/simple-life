@@ -23,7 +23,7 @@
     width: 100%;
 }
 .logo{
-    max-width: 9%;
+    max-width: 25%;
 }
 .header-btn {
     margin-right: 20px;
@@ -101,7 +101,7 @@
     align-items: center;   
 }
 .banner-content h1{
-    font-size: 60px;
+    font-size: 87px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     color: #ffff;
@@ -114,12 +114,12 @@
 .banner-content p{
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
-    font-weight: 100px;
+    font-weight: 500;
     color: #ffff;
     line-height: 1;
     letter-spacing: 0.5px;
     text-transform:capitalize;
-
+    margin-bottom:20px;
 }
 .items-block .container{
     max-width: 100%;
@@ -439,10 +439,9 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
     line-height: 1;
-    letter-spacing: 0.5;
+    letter-spacing: 0.5px;
     text-transform: capitalize;
-    
-
+    margin: 0 -25px 20px 0px;
 }
 .coun-heading strong{
      color: #ffff;
@@ -775,9 +774,12 @@
 }
 .ftr-phn{
     text-align: right;
+    padding: 0 10px 0 42px;
+    gap: 30px;
 }
 .ftr-phn a{
     color: #000;
+    font-size: 32px;
 }
 .ftr-1-line a{
     font-size: 20px;
@@ -791,7 +793,13 @@
 .ftr-1-line a:hover{
     color: #3498eb;
 }
-
+.ggl h4 {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+    color: #163d66;
+    letter-spacing: 0.6px;
+}
 
 
 
